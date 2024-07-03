@@ -1,7 +1,7 @@
 //import logo from './logo.svg';
 import { useEffect, useState } from 'react';
 import './App.css';
-import { AiOutlineDelete, AiOutlineEdit, MdDeleteOutline } from 'react-icons/ai';
+import { AiOutlineDelete, AiOutlineEdit } from 'react-icons/ai';
 import { VscCheck } from "react-icons/vsc";
 
 
